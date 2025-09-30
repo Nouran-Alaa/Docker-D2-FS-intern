@@ -88,5 +88,3 @@ Endpoints:
 ```bash
 docker-compose down
 ```
-
----
